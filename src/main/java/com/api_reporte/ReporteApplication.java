@@ -1,4 +1,4 @@
-package com.api_reporte.reporte;
+package com.api_reporte;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
